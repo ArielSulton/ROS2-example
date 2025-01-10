@@ -16,5 +16,8 @@ def generate_launch_description():
             name="subs",
             output="screen",
             emulate_tty=True,
+            parameters=[
+                {}
+            ]
         )
     ])

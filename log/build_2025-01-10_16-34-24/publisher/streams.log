@@ -1,0 +1,22 @@
+[0.031s] Invoking command in '/home/arielsulton/ros2_ws/build/publisher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/publisher -- -j8 -l8
+[0.114s] [100%] Built target pubs
+[0.460s] Invoked command in '/home/arielsulton/ros2_ws/build/publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/publisher -- -j8 -l8
+[0.476s] Invoking command in '/home/arielsulton/ros2_ws/build/publisher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/publisher
+[0.490s] -- Install configuration: ""
+[0.492s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/lib/publisher/pubs
+[0.493s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/ament_index/resource_index/package_run_dependencies/publisher
+[0.494s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/ament_index/resource_index/parent_prefix_path/publisher
+[0.494s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/environment/ament_prefix_path.sh
+[0.495s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/environment/ament_prefix_path.dsv
+[0.495s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/environment/path.sh
+[0.495s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/environment/path.dsv
+[0.496s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/local_setup.bash
+[0.496s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/local_setup.sh
+[0.497s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/local_setup.zsh
+[0.497s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/local_setup.dsv
+[0.497s] -- Installing: /home/arielsulton/ros2_ws/install/publisher/share/publisher/package.dsv
+[0.497s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/ament_index/resource_index/packages/publisher
+[0.498s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/cmake/publisherConfig.cmake
+[0.498s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/cmake/publisherConfig-version.cmake
+[0.498s] -- Up-to-date: /home/arielsulton/ros2_ws/install/publisher/share/publisher/package.xml
+[0.499s] Invoked command in '/home/arielsulton/ros2_ws/build/publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/publisher
