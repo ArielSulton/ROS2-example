@@ -1,0 +1,10 @@
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/install/strip.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/install.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/list_install_components.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/rebuild_cache.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/edit_cache.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/test.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/pubs.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/install/local.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/publisher_uninstall.dir
+/home/arielsulton/ros2_ws/build/publisher/CMakeFiles/uninstall.dir

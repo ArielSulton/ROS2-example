@@ -1,0 +1,16 @@
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/launch/test.launch.py
+/home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/package_run_dependencies/launcher
+/home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/parent_prefix_path/launcher
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/ament_prefix_path.sh
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/ament_prefix_path.dsv
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/path.sh
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/path.dsv
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.bash
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.sh
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.zsh
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.dsv
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/package.dsv
+/home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/packages/launcher
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/cmake/launcherConfig.cmake
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/cmake/launcherConfig-version.cmake
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/package.xml

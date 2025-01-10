@@ -1,0 +1,16 @@
+/home/arielsulton/ros2_ws/install/publisher/lib/publisher/pubs
+/home/arielsulton/ros2_ws/install/publisher/share/ament_index/resource_index/package_run_dependencies/publisher
+/home/arielsulton/ros2_ws/install/publisher/share/ament_index/resource_index/parent_prefix_path/publisher
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/environment/ament_prefix_path.sh
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/environment/ament_prefix_path.dsv
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/environment/path.sh
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/environment/path.dsv
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/local_setup.bash
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/local_setup.sh
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/local_setup.zsh
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/local_setup.dsv
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/package.dsv
+/home/arielsulton/ros2_ws/install/publisher/share/ament_index/resource_index/packages/publisher
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/cmake/publisherConfig.cmake
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/cmake/publisherConfig-version.cmake
+/home/arielsulton/ros2_ws/install/publisher/share/publisher/package.xml

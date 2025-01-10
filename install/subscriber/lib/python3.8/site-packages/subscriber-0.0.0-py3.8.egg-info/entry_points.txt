@@ -1,0 +1,2 @@
+[console_scripts]
+subs = subscriber.subs:main

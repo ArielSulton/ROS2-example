@@ -1,0 +1,27 @@
+[1.648s] Invoking command in '/home/arielsulton/ros2_ws/src/subscriber': PYTHONPATH=/home/arielsulton/ros2_ws/build/subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arielsulton/ros2_ws/install/subscriber/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/subscriber build --build-base /home/arielsulton/ros2_ws/build/subscriber/build install --record /home/arielsulton/ros2_ws/build/subscriber/install.log --single-version-externally-managed install_data
+[2.223s] running egg_info
+[2.444s] writing ../../build/subscriber/subscriber.egg-info/PKG-INFO
+[2.445s] writing dependency_links to ../../build/subscriber/subscriber.egg-info/dependency_links.txt
+[2.445s] writing entry points to ../../build/subscriber/subscriber.egg-info/entry_points.txt
+[2.446s] writing requirements to ../../build/subscriber/subscriber.egg-info/requires.txt
+[2.446s] writing top-level names to ../../build/subscriber/subscriber.egg-info/top_level.txt
+[2.620s] [2;36m[01/09/25 16:00:53][0m[2;36m [0m[1;31mERROR   [0m listing git files failed - pretending     ]8;id=839257;file:///home/arielsulton/.local/lib/python3.8/site-packages/setuptools_scm/_file_finders/git.py\[2mgit.py[0m]8;;\[2m:[0m]8;id=389599;file:///home/arielsulton/.local/lib/python3.8/site-packages/setuptools_scm/_file_finders/git.py#26\[2m26[0m]8;;\
+[2.620s] [2;36m                    [0m         there aren't any                          [2m         [0m
+[2.693s] reading manifest file '../../build/subscriber/subscriber.egg-info/SOURCES.txt'
+[2.695s] writing manifest file '../../build/subscriber/subscriber.egg-info/SOURCES.txt'
+[2.696s] running build
+[2.696s] running build_py
+[2.696s] copying subscriber/__init__.py -> /home/arielsulton/ros2_ws/build/subscriber/build/lib/subscriber
+[2.696s] copying subscriber/subs.py -> /home/arielsulton/ros2_ws/build/subscriber/build/lib/subscriber
+[2.697s] running install
+[2.703s] running install_lib
+[2.760s] running install_data
+[2.760s] copying resource/subscriber -> /home/arielsulton/ros2_ws/install/subscriber/share/ament_index/resource_index/packages
+[2.761s] copying package.xml -> /home/arielsulton/ros2_ws/install/subscriber/share/subscriber
+[2.761s] running install_egg_info
+[2.801s] removing '/home/arielsulton/ros2_ws/install/subscriber/lib/python3.8/site-packages/subscriber-0.0.0-py3.8.egg-info' (and everything under it)
+[2.801s] Copying ../../build/subscriber/subscriber.egg-info to /home/arielsulton/ros2_ws/install/subscriber/lib/python3.8/site-packages/subscriber-0.0.0-py3.8.egg-info
+[2.803s] running install_scripts
+[2.888s] Installing subs script to /home/arielsulton/ros2_ws/install/subscriber/lib/subscriber
+[2.888s] writing list of installed files to '/home/arielsulton/ros2_ws/build/subscriber/install.log'
+[2.932s] Invoked command in '/home/arielsulton/ros2_ws/src/subscriber' returned '0': PYTHONPATH=/home/arielsulton/ros2_ws/build/subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arielsulton/ros2_ws/install/subscriber/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/subscriber build --build-base /home/arielsulton/ros2_ws/build/subscriber/build install --record /home/arielsulton/ros2_ws/build/subscriber/install.log --single-version-externally-managed install_data
