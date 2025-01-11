@@ -1,0 +1,49 @@
+[0.055s] Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/launcher -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/launcher
+[1.749s] -- The C compiler identification is GNU 9.4.0
+[1.752s] -- The CXX compiler identification is GNU 9.4.0
+[1.753s] -- Check for working C compiler: /usr/bin/cc
+[1.754s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.754s] -- Detecting C compiler ABI info
+[1.755s] -- Detecting C compiler ABI info - done
+[1.755s] -- Detecting C compile features
+[1.758s] -- Detecting C compile features - done
+[1.759s] -- Check for working CXX compiler: /usr/bin/c++
+[1.759s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.759s] -- Detecting CXX compiler ABI info
+[1.761s] -- Detecting CXX compiler ABI info - done
+[1.763s] -- Detecting CXX compile features
+[1.763s] -- Detecting CXX compile features - done
+[1.763s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.763s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.763s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.764s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.764s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.765s] -- Added test 'lint_cmake' to check CMake code style
+[1.765s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.765s] -- Added test 'xmllint' to check XML markup files
+[1.765s] -- Configuring done
+[1.765s] -- Generating done
+[1.766s] -- Build files have been written to: /home/arielsulton/ros2_ws/build/launcher
+[1.766s] Invoked command in '/home/arielsulton/ros2_ws/build/launcher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/launcher -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/launcher
+[1.770s] Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/launcher -- -j8 -l8
+[1.803s] Invoked command in '/home/arielsulton/ros2_ws/build/launcher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/launcher -- -j8 -l8
+[1.820s] Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/launcher
+[1.831s] -- Install configuration: ""
+[1.831s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/launch
+[1.831s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/launch/test.launch.py
+[1.831s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/package_run_dependencies/launcher
+[1.832s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/parent_prefix_path/launcher
+[1.833s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/ament_prefix_path.sh
+[1.833s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/ament_prefix_path.dsv
+[1.833s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/path.sh
+[1.833s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/path.dsv
+[1.834s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.bash
+[1.834s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.sh
+[1.834s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.zsh
+[1.834s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.dsv
+[1.834s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/package.dsv
+[1.834s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/packages/launcher
+[1.835s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/cmake/launcherConfig.cmake
+[1.835s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/cmake/launcherConfig-version.cmake
+[1.835s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/package.xml
+[1.838s] Invoked command in '/home/arielsulton/ros2_ws/build/launcher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/launcher
