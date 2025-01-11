@@ -1,0 +1,3 @@
+[console_scripts]
+pubs_py = pkg_python.pubs_py:main
+subs_py = pkg_python.subs_py:main

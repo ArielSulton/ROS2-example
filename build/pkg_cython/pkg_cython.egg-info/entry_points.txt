@@ -1,0 +1,3 @@
+[console_scripts]
+pubs_cy = pkg_cython.pubs_cy:main
+subs_cy = pkg_cython.subs_cy:main

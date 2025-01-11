@@ -1,0 +1,17 @@
+/home/arielsulton/ros2_ws/install/pkg_cpp/lib/pkg_cpp/pubs_cpp
+/home/arielsulton/ros2_ws/install/pkg_cpp/lib/pkg_cpp/subs_cpp
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/package_run_dependencies/pkg_cpp
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/parent_prefix_path/pkg_cpp
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/ament_prefix_path.sh
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/ament_prefix_path.dsv
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/path.sh
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/path.dsv
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.bash
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.sh
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.zsh
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.dsv
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/package.dsv
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/packages/pkg_cpp
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/cmake/pkg_cppConfig.cmake
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/cmake/pkg_cppConfig-version.cmake
+/home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/package.xml
