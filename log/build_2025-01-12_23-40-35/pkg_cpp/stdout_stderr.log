@@ -45,10 +45,10 @@
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/arielsulton/ros2_ws/build/pkg_cpp
-[35m[1mScanning dependencies of target subs_cpp[0m
 [35m[1mScanning dependencies of target pubs_cpp[0m
-[ 25%] [32mBuilding CXX object CMakeFiles/subs_cpp.dir/src/subs_cpp.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/pubs_cpp.dir/src/pubs_cpp.cpp.o[0m
+[35m[1mScanning dependencies of target subs_cpp[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/pubs_cpp.dir/src/pubs_cpp.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/subs_cpp.dir/src/subs_cpp.cpp.o[0m
 [ 75%] [32m[1mLinking CXX executable pubs_cpp[0m
 [ 75%] Built target pubs_cpp
 [100%] [32m[1mLinking CXX executable subs_cpp[0m

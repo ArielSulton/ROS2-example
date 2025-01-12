@@ -10,21 +10,24 @@ using namespace std::chrono_literals;
 
 class MinimalPublisher : public rclcpp::Node {
   public:
-    MinimalPublisher() : Node("pubs_cpp"), count_(0) {
-      publisher_ = this->create_publisher<std_msgs::msg::String>("topic", 10);
-      timer_ = this->create_wall_timer(0.01ms, std::bind(&MinimalPublisher::timer_callback, this));
+    MinimalPublisher() : Node("pubs_cpp"), 
+      count(0) 
+    {
+      this->publisher = this->create_publisher<std_msgs::msg::String>("topic", 10);
+      this->timer = this->create_wall_timer(0.01ms, std::bind(&MinimalPublisher::timer_callback, this));
     }
 
   private:
+    rclcpp::TimerBase::SharedPtr timer;
+    rclcpp::Publisher<std_msgs::msg::String>::SharedPtr publisher;
+    size_t count;
+    
     void timer_callback() {
       auto message = std_msgs::msg::String();
-      message.data = "Hello, world! " + std::to_string(count_++);
+      message.data = "Hello, world! " + std::to_string(this->count++);
+      this->publisher->publish(message);
       RCLCPP_INFO(this->get_logger(), "Publishing: '%s'", message.data.c_str());
-      publisher_->publish(message);
     }
-    rclcpp::TimerBase::SharedPtr timer_;
-    rclcpp::Publisher<std_msgs::msg::String>::SharedPtr publisher_;
-    size_t count_;
 };
 
 int main(int argc, char * argv[]) {
