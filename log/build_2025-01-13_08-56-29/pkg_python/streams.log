@@ -1,0 +1,36 @@
+[6.201s] Invoking command in '/home/arielsulton/ros2_ws/src/pkg_python': PYTHONPATH=/home/arielsulton/ros2_ws/build/pkg_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pkg_python build --build-base /home/arielsulton/ros2_ws/build/pkg_python/build install --record /home/arielsulton/ros2_ws/build/pkg_python/install.log --single-version-externally-managed install_data
+[7.319s] running egg_info
+[7.399s] creating ../../build/pkg_python/pkg_python.egg-info
+[7.755s] writing ../../build/pkg_python/pkg_python.egg-info/PKG-INFO
+[7.757s] writing dependency_links to ../../build/pkg_python/pkg_python.egg-info/dependency_links.txt
+[7.757s] writing entry points to ../../build/pkg_python/pkg_python.egg-info/entry_points.txt
+[7.758s] writing requirements to ../../build/pkg_python/pkg_python.egg-info/requires.txt
+[7.758s] writing top-level names to ../../build/pkg_python/pkg_python.egg-info/top_level.txt
+[7.758s] writing manifest file '../../build/pkg_python/pkg_python.egg-info/SOURCES.txt'
+[8.364s] writing manifest file '../../build/pkg_python/pkg_python.egg-info/SOURCES.txt'
+[8.364s] running build
+[8.365s] running build_py
+[8.365s] creating /home/arielsulton/ros2_ws/build/pkg_python/build/lib/pkg_python
+[8.365s] copying pkg_python/__init__.py -> /home/arielsulton/ros2_ws/build/pkg_python/build/lib/pkg_python
+[8.366s] copying pkg_python/pubs_py.py -> /home/arielsulton/ros2_ws/build/pkg_python/build/lib/pkg_python
+[8.366s] copying pkg_python/subs_py.py -> /home/arielsulton/ros2_ws/build/pkg_python/build/lib/pkg_python
+[8.366s] running install
+[8.381s] running install_lib
+[8.483s] creating /home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages/pkg_python
+[8.483s] copying /home/arielsulton/ros2_ws/build/pkg_python/build/lib/pkg_python/__init__.py -> /home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages/pkg_python
+[8.483s] copying /home/arielsulton/ros2_ws/build/pkg_python/build/lib/pkg_python/pubs_py.py -> /home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages/pkg_python
+[8.484s] copying /home/arielsulton/ros2_ws/build/pkg_python/build/lib/pkg_python/subs_py.py -> /home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages/pkg_python
+[8.484s] byte-compiling /home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages/pkg_python/__init__.py to __init__.cpython-38.pyc
+[8.485s] byte-compiling /home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages/pkg_python/pubs_py.py to pubs_py.cpython-38.pyc
+[8.486s] byte-compiling /home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages/pkg_python/subs_py.py to subs_py.cpython-38.pyc
+[8.488s] running install_data
+[8.489s] creating /home/arielsulton/ros2_ws/install/pkg_python/share/ament_index/resource_index/packages
+[8.489s] copying resource/pkg_python -> /home/arielsulton/ros2_ws/install/pkg_python/share/ament_index/resource_index/packages
+[8.490s] copying package.xml -> /home/arielsulton/ros2_ws/install/pkg_python/share/pkg_python
+[8.491s] running install_egg_info
+[8.607s] Copying ../../build/pkg_python/pkg_python.egg-info to /home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages/pkg_python-0.0.0-py3.8.egg-info
+[8.609s] running install_scripts
+[8.877s] Installing pubs_py script to /home/arielsulton/ros2_ws/install/pkg_python/lib/pkg_python
+[8.877s] Installing subs_py script to /home/arielsulton/ros2_ws/install/pkg_python/lib/pkg_python
+[8.878s] writing list of installed files to '/home/arielsulton/ros2_ws/build/pkg_python/install.log'
+[8.956s] Invoked command in '/home/arielsulton/ros2_ws/src/pkg_python' returned '0': PYTHONPATH=/home/arielsulton/ros2_ws/build/pkg_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arielsulton/ros2_ws/install/pkg_python/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pkg_python build --build-base /home/arielsulton/ros2_ws/build/pkg_python/build install --record /home/arielsulton/ros2_ws/build/pkg_python/install.log --single-version-externally-managed install_data
