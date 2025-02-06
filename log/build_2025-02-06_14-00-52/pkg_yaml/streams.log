@@ -1,0 +1,26 @@
+[1.584s] Invoking command in '/home/arielsulton/ros2_ws/build/pkg_yaml': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/pkg_yaml -- -j8 -l8
+[1.647s] [35m[1mScanning dependencies of target yaml_test[0m
+[1.689s] [ 50%] [32mBuilding CXX object CMakeFiles/yaml_test.dir/src/yaml_test.cpp.o[0m
+[4.477s] [100%] [32m[1mLinking CXX executable yaml_test[0m
+[4.672s] [100%] Built target yaml_test
+[4.690s] Invoked command in '/home/arielsulton/ros2_ws/build/pkg_yaml' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/pkg_yaml -- -j8 -l8
+[4.695s] Invoking command in '/home/arielsulton/ros2_ws/build/pkg_yaml': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/pkg_yaml
+[4.707s] -- Install configuration: ""
+[4.707s] -- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/lib/pkg_yaml/yaml_test
+[4.708s] -- Set runtime path of "/home/arielsulton/ros2_ws/install/pkg_yaml/lib/pkg_yaml/yaml_test" to ""
+[4.709s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/package_run_dependencies/pkg_yaml
+[4.709s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/parent_prefix_path/pkg_yaml
+[4.709s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/ament_prefix_path.sh
+[4.709s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/ament_prefix_path.dsv
+[4.709s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/path.sh
+[4.710s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/path.dsv
+[4.710s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.bash
+[4.710s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.sh
+[4.710s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.zsh
+[4.710s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.dsv
+[4.710s] -- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/package.dsv
+[4.711s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/packages/pkg_yaml
+[4.711s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/cmake/pkg_yamlConfig.cmake
+[4.711s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/cmake/pkg_yamlConfig-version.cmake
+[4.711s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/package.xml
+[4.715s] Invoked command in '/home/arielsulton/ros2_ws/build/pkg_yaml' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/pkg_yaml

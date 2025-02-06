@@ -1,0 +1,1 @@
+Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/launcher -- -j8 -l8

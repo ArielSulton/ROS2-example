@@ -1,0 +1,40 @@
+running egg_info
+writing ../../build/pkg_cython/pkg_cython.egg-info/PKG-INFO
+writing dependency_links to ../../build/pkg_cython/pkg_cython.egg-info/dependency_links.txt
+writing entry points to ../../build/pkg_cython/pkg_cython.egg-info/entry_points.txt
+writing requirements to ../../build/pkg_cython/pkg_cython.egg-info/requires.txt
+writing top-level names to ../../build/pkg_cython/pkg_cython.egg-info/top_level.txt
+writing manifest file '../../build/pkg_cython/pkg_cython.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pkg_cython/__init__.py -> /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython
+copying pkg_cython/subs_cy.py -> /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython
+copying pkg_cython/pubs_cy.py -> /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython
+running build_ext
+building 'pkg_cython.__init__' extension
+x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -fPIC -I/home/arielsulton/ros2_ws/install/pkg_cython/include -I/usr/include/python3.8 -c pkg_cython/__init__.c -o /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/__init__.o
+x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -g -fwrapv -O2 /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/__init__.o -L/usr/lib -o /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/__init__.cpython-38-x86_64-linux-gnu.so
+building 'pkg_cython.pubs_cy' extension
+x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -fPIC -I/home/arielsulton/ros2_ws/install/pkg_cython/include -I/usr/include/python3.8 -c pkg_cython/pubs_cy.c -o /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/pubs_cy.o
+x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -g -fwrapv -O2 /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/pubs_cy.o -L/usr/lib -o /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/pubs_cy.cpython-38-x86_64-linux-gnu.so
+building 'pkg_cython.subs_cy' extension
+x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -fPIC -I/home/arielsulton/ros2_ws/install/pkg_cython/include -I/usr/include/python3.8 -c pkg_cython/subs_cy.c -o /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/subs_cy.o
+x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -g -fwrapv -O2 /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/subs_cy.o -L/usr/lib -o /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/subs_cy.cpython-38-x86_64-linux-gnu.so
+running install
+running install_lib
+copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/__init__.py -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/subs_cy.py -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/pubs_cy.py -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/subs_cy.cpython-38-x86_64-linux-gnu.so -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/__init__.cpython-38-x86_64-linux-gnu.so -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/pubs_cy.cpython-38-x86_64-linux-gnu.so -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+running install_data
+copying resource/pkg_cython -> /home/arielsulton/ros2_ws/install/pkg_cython/share/ament_index/resource_index/packages
+copying package.xml -> /home/arielsulton/ros2_ws/install/pkg_cython/share/pkg_cython
+running install_egg_info
+removing '/home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/pkg_cython/pkg_cython.egg-info to /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython-0.0.0-py3.8.egg-info
+running install_scripts
+Installing pubs_cy script to /home/arielsulton/ros2_ws/install/pkg_cython/lib/pkg_cython
+Installing subs_cy script to /home/arielsulton/ros2_ws/install/pkg_cython/lib/pkg_cython
+writing list of installed files to '/home/arielsulton/ros2_ws/build/pkg_cython/install.log'

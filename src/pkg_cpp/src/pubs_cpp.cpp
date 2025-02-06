@@ -13,7 +13,7 @@ class MinimalPublisher : public rclcpp::Node {
     MinimalPublisher() : Node("pubs_cpp"), 
       count(0) 
     {
-      this->publisher = this->create_publisher<std_msgs::msg::String>("topic", 10);
+      this->publisher = this->create_publisher<std_msgs::msg::String>("topic", rclcpp::ServicesQoS());
       this->timer = this->create_wall_timer(0.01ms, std::bind(&MinimalPublisher::timer_callback, this));
     }
 

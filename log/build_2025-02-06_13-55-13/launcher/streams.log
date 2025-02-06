@@ -1,0 +1,22 @@
+[0.048s] Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/launcher -- -j8 -l8
+[1.631s] Invoked command in '/home/arielsulton/ros2_ws/build/launcher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/launcher -- -j8 -l8
+[1.649s] Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/launcher
+[1.668s] -- Install configuration: ""
+[1.668s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/launch
+[1.670s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/launch/test.launch.py
+[1.670s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/package_run_dependencies/launcher
+[1.671s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/parent_prefix_path/launcher
+[1.675s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/ament_prefix_path.sh
+[1.676s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/ament_prefix_path.dsv
+[1.677s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/path.sh
+[1.677s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/path.dsv
+[1.678s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.bash
+[1.679s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.sh
+[1.679s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.zsh
+[1.679s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/local_setup.dsv
+[1.679s] -- Installing: /home/arielsulton/ros2_ws/install/launcher/share/launcher/package.dsv
+[1.679s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/packages/launcher
+[1.679s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/cmake/launcherConfig.cmake
+[1.679s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/cmake/launcherConfig-version.cmake
+[1.679s] -- Up-to-date: /home/arielsulton/ros2_ws/install/launcher/share/launcher/package.xml
+[1.684s] Invoked command in '/home/arielsulton/ros2_ws/build/launcher' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/launcher

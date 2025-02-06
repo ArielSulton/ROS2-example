@@ -1,0 +1,60 @@
+# ros2 param load yaml_test /home/arielsulton/ros2_ws/src/launcher/config/test.yaml
+
+/yaml_test:
+  ros__parameters:
+    navigation:
+      radius: 2.0
+
+      waypoints_A:
+        count: 6
+        waypoint_0:
+          latitude: 0.0
+          longitude: 0.0
+          altitude: 0.0
+        waypoint_1:
+          latitude: 0.0
+          longitude: 0.0
+          altitude: 0.0
+        waypoint_2:
+          latitude: 0.0
+          longitude: 0.0
+          altitude: 0.0
+        waypoint_3:
+          latitude: 0.0
+          longitude: 0.0
+          altitude: 0.0
+        waypoint_4:
+          latitude: 0.0
+          longitude: 0.0
+          altitude: 0.0
+        waypoint_5:
+          latitude: 0.0
+          longitude: 0.0
+          altitude: 0.0
+      
+      waypoints_B:
+        count: 6
+        waypoint_0:
+          latitude: -7.2762959
+          longitude: 112.793447
+          altitude: 0.0
+        waypoint_1:
+          latitude: -7.2762959
+          longitude: 112.793447
+          altitude: 0.0
+        waypoint_2:
+          latitude: -7.2762959
+          longitude: 112.793447
+          altitude: 0.0
+        waypoint_3:
+          latitude: -7.2762959
+          longitude: 112.793447
+          altitude: 0.0
+        waypoint_4:
+          latitude: -7.2762959
+          longitude: 112.793447
+          altitude: 0.0
+        waypoint_5:
+          latitude: -7.2762959
+          longitude: 112.793447
+          altitude: 0.0

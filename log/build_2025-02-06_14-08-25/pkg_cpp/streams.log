@@ -1,0 +1,24 @@
+[0.046s] Invoking command in '/home/arielsulton/ros2_ws/build/pkg_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/pkg_cpp -- -j8 -l8
+[1.648s] [ 50%] Built target pubs_cpp
+[1.649s] [100%] Built target subs_cpp
+[1.670s] Invoked command in '/home/arielsulton/ros2_ws/build/pkg_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/pkg_cpp -- -j8 -l8
+[1.674s] Invoking command in '/home/arielsulton/ros2_ws/build/pkg_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/pkg_cpp
+[1.692s] -- Install configuration: ""
+[1.696s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/lib/pkg_cpp/pubs_cpp
+[1.696s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/lib/pkg_cpp/subs_cpp
+[1.708s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/package_run_dependencies/pkg_cpp
+[1.708s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/parent_prefix_path/pkg_cpp
+[1.709s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/ament_prefix_path.sh
+[1.710s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/ament_prefix_path.dsv
+[1.715s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/path.sh
+[1.715s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/path.dsv
+[1.716s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.bash
+[1.716s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.sh
+[1.717s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.zsh
+[1.717s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.dsv
+[1.718s] -- Installing: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/package.dsv
+[1.719s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/packages/pkg_cpp
+[1.720s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/cmake/pkg_cppConfig.cmake
+[1.720s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/cmake/pkg_cppConfig-version.cmake
+[1.721s] -- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/package.xml
+[1.758s] Invoked command in '/home/arielsulton/ros2_ws/build/pkg_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/arielsulton/ros2_ws/install/pkg_python:/home/arielsulton/ros2_ws/install/pkg_cython:/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/pkg_cpp

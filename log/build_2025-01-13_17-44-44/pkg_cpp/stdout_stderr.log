@@ -1,0 +1,24 @@
+[35m[1mScanning dependencies of target subs_cpp[0m
+[ 50%] Built target pubs_cpp
+[ 75%] [32mBuilding CXX object CMakeFiles/subs_cpp.dir/src/subs_cpp.cpp.o[0m
+[100%] [32m[1mLinking CXX executable subs_cpp[0m
+[100%] Built target subs_cpp
+-- Install configuration: ""
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/lib/pkg_cpp/pubs_cpp
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_cpp/lib/pkg_cpp/subs_cpp
+-- Set runtime path of "/home/arielsulton/ros2_ws/install/pkg_cpp/lib/pkg_cpp/subs_cpp" to ""
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/package_run_dependencies/pkg_cpp
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/parent_prefix_path/pkg_cpp
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/ament_prefix_path.sh
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/path.sh
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/environment/path.dsv
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.bash
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.sh
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.zsh
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/local_setup.dsv
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/package.dsv
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/ament_index/resource_index/packages/pkg_cpp
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/cmake/pkg_cppConfig.cmake
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/cmake/pkg_cppConfig-version.cmake
+-- Up-to-date: /home/arielsulton/ros2_ws/install/pkg_cpp/share/pkg_cpp/package.xml

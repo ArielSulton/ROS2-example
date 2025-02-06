@@ -1,4 +1,5 @@
 /home/arielsulton/ros2_ws/install/launcher/share/launcher/launch/test.launch.py
+/home/arielsulton/ros2_ws/install/launcher/share/launcher/config/test.yaml
 /home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/package_run_dependencies/launcher
 /home/arielsulton/ros2_ws/install/launcher/share/ament_index/resource_index/parent_prefix_path/launcher
 /home/arielsulton/ros2_ws/install/launcher/share/launcher/environment/ament_prefix_path.sh

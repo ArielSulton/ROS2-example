@@ -1,0 +1,16 @@
+/home/arielsulton/ros2_ws/install/pkg_yaml/lib/pkg_yaml/yaml_test
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/package_run_dependencies/pkg_yaml
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/parent_prefix_path/pkg_yaml
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/ament_prefix_path.sh
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/ament_prefix_path.dsv
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/path.sh
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/path.dsv
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.bash
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.sh
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.zsh
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.dsv
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/package.dsv
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/packages/pkg_yaml
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/cmake/pkg_yamlConfig.cmake
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/cmake/pkg_yamlConfig-version.cmake
+/home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/package.xml
