@@ -13,7 +13,7 @@ def generate_launch_description():
         Node(
             package="pkg_yaml",
             executable="yaml_test",
-            name="yaml_test",
+            name="yaml_node",
             output="screen",
             emulate_tty=True,
             parameters=[
@@ -22,8 +22,7 @@ def generate_launch_description():
                     'config',
                     'test.yaml'
                 )
-            ],
-            
+            ],   
         ),
         # Node(
         #     package="pkg_cpp",
@@ -47,6 +46,27 @@ def generate_launch_description():
         #     emulate_tty=True,
         #     parameters=[
         #         {}
+        #     ]
+        # ),
+        # Node(
+        #     package="pkg_python",
+        #     executable="pubs_py",
+        #     name="pubs_py",
+        #     output="screen",
+        #     emulate_tty=True,
+        # ),
+        # Node(
+        #     package="pkg_python2",
+        #     executable="pubs_py",
+        #     name="pubs_py2",
+        #     output="screen",
+        #     emulate_tty=True,
+        #     parameters=[
+        #         os.path.join(
+        #             get_package_share_directory('launcher'),
+        #             'config',
+        #             'test.yaml'
+        #         )
         #     ]
         # )
     ])

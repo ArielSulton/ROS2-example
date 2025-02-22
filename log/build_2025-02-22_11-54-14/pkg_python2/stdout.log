@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/pkg_python2/pkg_python2.egg-info/PKG-INFO
+writing dependency_links to ../../build/pkg_python2/pkg_python2.egg-info/dependency_links.txt
+writing entry points to ../../build/pkg_python2/pkg_python2.egg-info/entry_points.txt
+writing requirements to ../../build/pkg_python2/pkg_python2.egg-info/requires.txt
+writing top-level names to ../../build/pkg_python2/pkg_python2.egg-info/top_level.txt
+reading manifest file '../../build/pkg_python2/pkg_python2.egg-info/SOURCES.txt'
+writing manifest file '../../build/pkg_python2/pkg_python2.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pkg_python2/__init__.py -> /home/arielsulton/ros2_ws/build/pkg_python2/build/lib/pkg_python2
+copying pkg_python2/pubs_py.py -> /home/arielsulton/ros2_ws/build/pkg_python2/build/lib/pkg_python2
+running install
+running install_lib
+running install_data
+copying resource/pkg_python2 -> /home/arielsulton/ros2_ws/install/pkg_python2/share/ament_index/resource_index/packages
+copying package.xml -> /home/arielsulton/ros2_ws/install/pkg_python2/share/pkg_python2
+running install_egg_info
+removing '/home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages/pkg_python2-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/pkg_python2/pkg_python2.egg-info to /home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages/pkg_python2-0.0.0-py3.8.egg-info
+running install_scripts
+Installing pubs_py script to /home/arielsulton/ros2_ws/install/pkg_python2/lib/pkg_python2
+writing list of installed files to '/home/arielsulton/ros2_ws/build/pkg_python2/install.log'

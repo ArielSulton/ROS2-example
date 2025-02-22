@@ -1,6 +1,0 @@
-Invoking command in '/home/arielsulton/ros2_ws/build/pkg_yaml': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/pkg_yaml -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/pkg_yaml
-Invoked command in '/home/arielsulton/ros2_ws/build/pkg_yaml' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/pkg_yaml -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/pkg_yaml
-Invoking command in '/home/arielsulton/ros2_ws/build/pkg_yaml': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/pkg_yaml -- -j8 -l8
-Invoked command in '/home/arielsulton/ros2_ws/build/pkg_yaml' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/pkg_yaml -- -j8 -l8
-Invoking command in '/home/arielsulton/ros2_ws/build/pkg_yaml': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/pkg_yaml
-Invoked command in '/home/arielsulton/ros2_ws/build/pkg_yaml' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/pkg_yaml

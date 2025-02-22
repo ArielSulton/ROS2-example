@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target yaml_test[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/yaml_test.dir/src/yaml_test.cpp.o[0m
+[100%] [32m[1mLinking CXX executable yaml_test[0m
+[100%] Built target yaml_test
+-- Install configuration: ""
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/lib/pkg_yaml/yaml_test
+-- Set runtime path of "/home/arielsulton/ros2_ws/install/pkg_yaml/lib/pkg_yaml/yaml_test" to ""
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/package_run_dependencies/pkg_yaml
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/parent_prefix_path/pkg_yaml
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/ament_prefix_path.sh
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/ament_prefix_path.dsv
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/path.sh
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/environment/path.dsv
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.bash
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.sh
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.zsh
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/local_setup.dsv
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/package.dsv
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/ament_index/resource_index/packages/pkg_yaml
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/cmake/pkg_yamlConfig.cmake
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/cmake/pkg_yamlConfig-version.cmake
+-- Installing: /home/arielsulton/ros2_ws/install/pkg_yaml/share/pkg_yaml/package.xml

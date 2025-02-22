@@ -1,0 +1,9 @@
+running egg_info
+creating ../../build/pkg_python/pkg_python.egg-info
+writing ../../build/pkg_python/pkg_python.egg-info/PKG-INFO
+writing dependency_links to ../../build/pkg_python/pkg_python.egg-info/dependency_links.txt
+writing entry points to ../../build/pkg_python/pkg_python.egg-info/entry_points.txt
+writing requirements to ../../build/pkg_python/pkg_python.egg-info/requires.txt
+writing top-level names to ../../build/pkg_python/pkg_python.egg-info/top_level.txt
+writing manifest file '../../build/pkg_python/pkg_python.egg-info/SOURCES.txt'
+error: package directory 'pkg_python' does not exist

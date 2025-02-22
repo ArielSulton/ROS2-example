@@ -1,6 +1,10 @@
-# ros2 param load yaml_test /home/arielsulton/ros2_ws/src/launcher/config/test.yaml
+# ros2 param load /pubs_py2 /home/arielsulton/ros2_ws/src/launcher/config/test.yaml
 
-/yaml_test:
+/pubs_py2:
+  ros__parameters:
+    message: 'halo ganbro'
+
+/yaml_node:
   ros__parameters:
     navigation:
       radius: 2.0

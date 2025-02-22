@@ -1,0 +1,58 @@
+[0.049s] Invoking command in '/home/arielsulton/ros2_ws/build/pkg_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/pkg_cpp -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/pkg_cpp
+[2.117s] -- The C compiler identification is GNU 9.4.0
+[2.119s] -- The CXX compiler identification is GNU 9.4.0
+[2.120s] -- Check for working C compiler: /usr/bin/cc
+[2.120s] -- Check for working C compiler: /usr/bin/cc -- works
+[2.121s] -- Detecting C compiler ABI info
+[2.122s] -- Detecting C compiler ABI info - done
+[2.122s] -- Detecting C compile features
+[2.122s] -- Detecting C compile features - done
+[2.122s] -- Check for working CXX compiler: /usr/bin/c++
+[2.123s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.125s] -- Detecting CXX compiler ABI info
+[2.126s] -- Detecting CXX compiler ABI info - done
+[2.129s] -- Detecting CXX compile features
+[2.130s] -- Detecting CXX compile features - done
+[2.130s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.131s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.131s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.132s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[2.134s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.135s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[2.135s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[2.135s] -- Found FastRTPS: /opt/ros/foxy/include  
+[2.136s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.136s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[2.136s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.136s] -- Looking for pthread.h
+[2.136s] -- Looking for pthread.h - found
+[2.136s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.136s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[2.136s] -- Looking for pthread_create in pthreads
+[2.137s] -- Looking for pthread_create in pthreads - not found
+[2.137s] -- Looking for pthread_create in pthread
+[2.137s] -- Looking for pthread_create in pthread - found
+[2.137s] -- Found Threads: TRUE  
+[2.310s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[2.453s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.453s] -- Configured cppcheck include dirs: 
+[2.453s] -- Configured cppcheck exclude dirs and/or files: 
+[2.455s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.455s] -- Configured cpplint exclude dirs and/or files: 
+[2.456s] -- Added test 'lint_cmake' to check CMake code style
+[2.458s] -- Added test 'uncrustify' to check C / C++ code style
+[2.458s] -- Configured uncrustify additional arguments: 
+[2.459s] -- Added test 'xmllint' to check XML markup files
+[2.464s] -- Configuring done
+[2.482s] -- Generating done
+[2.491s] -- Build files have been written to: /home/arielsulton/ros2_ws/build/pkg_cpp
+[2.501s] Invoked command in '/home/arielsulton/ros2_ws/build/pkg_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/pkg_cpp -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/pkg_cpp
+[2.505s] Invoking command in '/home/arielsulton/ros2_ws/build/pkg_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/pkg_cpp -- -j8 -l8
+[2.557s] [35m[1mScanning dependencies of target pubs_cpp[0m
+[2.559s] [35m[1mScanning dependencies of target subs_cpp[0m
+[2.708s] [ 50%] [32mBuilding CXX object CMakeFiles/subs_cpp.dir/src/subs_cpp.cpp.o[0m
+[2.708s] [ 50%] [32mBuilding CXX object CMakeFiles/pubs_cpp.dir/src/pubs_cpp.cpp.o[0m
+[8.988s] [ 75%] [32m[1mLinking CXX executable pubs_cpp[0m
+[9.162s] [ 75%] Built target pubs_cpp
+[11.284s] [100%] [32m[1mLinking CXX executable subs_cpp[0m
+[11.450s] [100%] Built target subs_cpp

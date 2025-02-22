@@ -1,0 +1,49 @@
+[5.114s] Invoking command in '/home/arielsulton/ros2_ws/src/pkg_cython': PYTHONPATH=/home/arielsulton/ros2_ws/build/pkg_cython/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pkg_cython build --build-base /home/arielsulton/ros2_ws/build/pkg_cython/build install --record /home/arielsulton/ros2_ws/build/pkg_cython/install.log --single-version-externally-managed install_data
+[6.677s] running egg_info
+[6.728s] creating ../../build/pkg_cython/pkg_cython.egg-info
+[6.922s] writing ../../build/pkg_cython/pkg_cython.egg-info/PKG-INFO
+[6.923s] writing dependency_links to ../../build/pkg_cython/pkg_cython.egg-info/dependency_links.txt
+[6.923s] writing entry points to ../../build/pkg_cython/pkg_cython.egg-info/entry_points.txt
+[6.923s] writing requirements to ../../build/pkg_cython/pkg_cython.egg-info/requires.txt
+[6.924s] writing top-level names to ../../build/pkg_cython/pkg_cython.egg-info/top_level.txt
+[6.924s] writing manifest file '../../build/pkg_cython/pkg_cython.egg-info/SOURCES.txt'
+[7.355s] writing manifest file '../../build/pkg_cython/pkg_cython.egg-info/SOURCES.txt'
+[7.355s] running build
+[7.356s] running build_py
+[7.356s] creating /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython
+[7.356s] copying pkg_cython/__init__.py -> /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython
+[7.357s] copying pkg_cython/subs_cy.py -> /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython
+[7.357s] copying pkg_cython/pubs_cy.py -> /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython
+[7.358s] running build_ext
+[7.361s] building 'pkg_cython.__init__' extension
+[7.362s] creating /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython
+[7.362s] x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -fPIC -I/home/arielsulton/ros2_ws/install/pkg_cython/include -I/usr/include/python3.8 -c pkg_cython/__init__.c -o /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/__init__.o
+[7.670s] x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -g -fwrapv -O2 /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/__init__.o -L/usr/lib -o /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/__init__.cpython-38-x86_64-linux-gnu.so
+[7.696s] building 'pkg_cython.pubs_cy' extension
+[7.697s] x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -fPIC -I/home/arielsulton/ros2_ws/install/pkg_cython/include -I/usr/include/python3.8 -c pkg_cython/pubs_cy.c -o /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/pubs_cy.o
+[9.482s] x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -g -fwrapv -O2 /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/pubs_cy.o -L/usr/lib -o /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/pubs_cy.cpython-38-x86_64-linux-gnu.so
+[9.517s] building 'pkg_cython.subs_cy' extension
+[9.518s] x86_64-linux-gnu-gcc -pthread -Wno-unused-result -Wsign-compare -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -g -fwrapv -O2 -fPIC -I/home/arielsulton/ros2_ws/install/pkg_cython/include -I/usr/include/python3.8 -c pkg_cython/subs_cy.c -o /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/subs_cy.o
+[11.202s] x86_64-linux-gnu-gcc -pthread -shared -Wl,-O1 -Wl,-Bsymbolic-functions -Wl,-Bsymbolic-functions -Wl,-z,relro -g -fwrapv -O2 /home/arielsulton/ros2_ws/build/pkg_cython/build/temp.linux-x86_64-cpython-38/pkg_cython/subs_cy.o -L/usr/lib -o /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/subs_cy.cpython-38-x86_64-linux-gnu.so
+[11.231s] running install
+[11.239s] running install_lib
+[11.283s] creating /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+[11.284s] copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/__init__.py -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+[11.284s] copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/subs_cy.py -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+[11.284s] copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/pubs_cy.py -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+[11.284s] copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/subs_cy.cpython-38-x86_64-linux-gnu.so -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+[11.285s] copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/__init__.cpython-38-x86_64-linux-gnu.so -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+[11.285s] copying /home/arielsulton/ros2_ws/build/pkg_cython/build/lib.linux-x86_64-cpython-38/pkg_cython/pubs_cy.cpython-38-x86_64-linux-gnu.so -> /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython
+[11.286s] byte-compiling /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython/__init__.py to __init__.cpython-38.pyc
+[11.287s] byte-compiling /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython/subs_cy.py to subs_cy.cpython-38.pyc
+[11.287s] byte-compiling /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython/pubs_cy.py to pubs_cy.cpython-38.pyc
+[11.288s] running install_data
+[11.288s] creating /home/arielsulton/ros2_ws/install/pkg_cython/share/ament_index/resource_index/packages
+[11.288s] copying resource/pkg_cython -> /home/arielsulton/ros2_ws/install/pkg_cython/share/ament_index/resource_index/packages
+[11.289s] copying package.xml -> /home/arielsulton/ros2_ws/install/pkg_cython/share/pkg_cython
+[11.289s] running install_egg_info
+[11.332s] Copying ../../build/pkg_cython/pkg_cython.egg-info to /home/arielsulton/ros2_ws/install/pkg_cython/lib/python3.8/site-packages/pkg_cython-0.0.0-py3.8.egg-info
+[11.333s] running install_scripts
+[11.429s] Installing pubs_cy script to /home/arielsulton/ros2_ws/install/pkg_cython/lib/pkg_cython
+[11.429s] Installing subs_cy script to /home/arielsulton/ros2_ws/install/pkg_cython/lib/pkg_cython
+[11.430s] writing list of installed files to '/home/arielsulton/ros2_ws/build/pkg_cython/install.log'

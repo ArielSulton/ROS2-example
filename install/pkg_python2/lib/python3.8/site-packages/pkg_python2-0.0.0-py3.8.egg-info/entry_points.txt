@@ -1,0 +1,2 @@
+[console_scripts]
+pubs_py = pkg_python2.pubs_py:main

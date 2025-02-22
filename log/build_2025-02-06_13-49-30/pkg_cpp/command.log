@@ -1,1 +1,0 @@
-Invoking command in '/home/arielsulton/ros2_ws/build/pkg_cpp': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/pkg_cpp -- -j8 -l8

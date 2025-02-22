@@ -1,0 +1,32 @@
+[4.343s] Invoking command in '/home/arielsulton/ros2_ws/src/pkg_python2': PYTHONPATH=/home/arielsulton/ros2_ws/build/pkg_python2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pkg_python2 build --build-base /home/arielsulton/ros2_ws/build/pkg_python2/build install --record /home/arielsulton/ros2_ws/build/pkg_python2/install.log --single-version-externally-managed install_data
+[5.340s] running egg_info
+[5.411s] creating ../../build/pkg_python2/pkg_python2.egg-info
+[5.669s] writing ../../build/pkg_python2/pkg_python2.egg-info/PKG-INFO
+[5.672s] writing dependency_links to ../../build/pkg_python2/pkg_python2.egg-info/dependency_links.txt
+[5.672s] writing entry points to ../../build/pkg_python2/pkg_python2.egg-info/entry_points.txt
+[5.673s] writing requirements to ../../build/pkg_python2/pkg_python2.egg-info/requires.txt
+[5.673s] writing top-level names to ../../build/pkg_python2/pkg_python2.egg-info/top_level.txt
+[5.673s] writing manifest file '../../build/pkg_python2/pkg_python2.egg-info/SOURCES.txt'
+[6.327s] reading manifest file '../../build/pkg_python2/pkg_python2.egg-info/SOURCES.txt'
+[6.329s] writing manifest file '../../build/pkg_python2/pkg_python2.egg-info/SOURCES.txt'
+[6.330s] running build
+[6.330s] running build_py
+[6.330s] creating /home/arielsulton/ros2_ws/build/pkg_python2/build/lib/pkg_python2
+[6.331s] copying pkg_python2/__init__.py -> /home/arielsulton/ros2_ws/build/pkg_python2/build/lib/pkg_python2
+[6.331s] copying pkg_python2/pubs_py.py -> /home/arielsulton/ros2_ws/build/pkg_python2/build/lib/pkg_python2
+[6.332s] running install
+[6.344s] running install_lib
+[6.428s] creating /home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages/pkg_python2
+[6.428s] copying /home/arielsulton/ros2_ws/build/pkg_python2/build/lib/pkg_python2/__init__.py -> /home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages/pkg_python2
+[6.428s] copying /home/arielsulton/ros2_ws/build/pkg_python2/build/lib/pkg_python2/pubs_py.py -> /home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages/pkg_python2
+[6.429s] byte-compiling /home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages/pkg_python2/__init__.py to __init__.cpython-38.pyc
+[6.430s] byte-compiling /home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages/pkg_python2/pubs_py.py to pubs_py.cpython-38.pyc
+[6.430s] running install_data
+[6.431s] creating /home/arielsulton/ros2_ws/install/pkg_python2/share/ament_index/resource_index/packages
+[6.432s] copying resource/pkg_python2 -> /home/arielsulton/ros2_ws/install/pkg_python2/share/ament_index/resource_index/packages
+[6.432s] copying package.xml -> /home/arielsulton/ros2_ws/install/pkg_python2/share/pkg_python2
+[6.432s] running install_egg_info
+[6.502s] Copying ../../build/pkg_python2/pkg_python2.egg-info to /home/arielsulton/ros2_ws/install/pkg_python2/lib/python3.8/site-packages/pkg_python2-0.0.0-py3.8.egg-info
+[6.503s] running install_scripts
+[6.662s] Installing pubs_py script to /home/arielsulton/ros2_ws/install/pkg_python2/lib/pkg_python2
+[6.662s] writing list of installed files to '/home/arielsulton/ros2_ws/build/pkg_python2/install.log'

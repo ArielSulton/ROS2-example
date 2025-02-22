@@ -1,6 +1,0 @@
-Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/launcher -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/launcher
-Invoked command in '/home/arielsulton/ros2_ws/build/launcher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/launcher -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/launcher
-Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/launcher -- -j8 -l8
-Invoked command in '/home/arielsulton/ros2_ws/build/launcher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/arielsulton/ros2_ws/build/launcher -- -j8 -l8
-Invoking command in '/home/arielsulton/ros2_ws/build/launcher': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/launcher
-Invoked command in '/home/arielsulton/ros2_ws/build/launcher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/arielsulton/ros2_ws/build/launcher

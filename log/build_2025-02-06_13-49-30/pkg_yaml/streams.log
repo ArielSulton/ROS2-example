@@ -1,1 +1,0 @@
-[1.535s] Invoking command in '/home/arielsulton/ros2_ws/build/pkg_yaml': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/arielsulton/ros2_ws/src/pkg_yaml -DCMAKE_INSTALL_PREFIX=/home/arielsulton/ros2_ws/install/pkg_yaml
